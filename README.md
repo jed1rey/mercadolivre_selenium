@@ -31,4 +31,3 @@ pip install selenium webdriver-manager
 ```bash
 python main.py
 ```
-python main.py
